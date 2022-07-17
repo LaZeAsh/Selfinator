@@ -1,4 +1,4 @@
-# 📷 Selfinator (mlh SelfieHacks II )
+# 📷 Selfinator (mlh SelfieHacks II)
 
 ### 📸 Selfinator  
 ### This is an application that takes a photo when the face stay in best position. App using AI/ML models to detect person's expressions and take the selfie at the right time.
